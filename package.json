@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "ipfs-api": "^26.1.2",
+    "react-bootstrap": "^2.10.4",
+    "web3": "^4.11.1"
+  }
+}
